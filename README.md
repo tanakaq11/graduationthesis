@@ -17,5 +17,5 @@
 </script>
 
 <form>
-    <input type="button" value="ランダムに移動" onclick="myRndLink()">
+    <input type="button" value="ここをクリック" onclick="myRndLink()">
 </form>
