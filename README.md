@@ -1,5 +1,5 @@
 <script type="text/javascript">
-    myCnt = 4;
+    myCnt = 8;
 
     // URLのリスト
     myTable = new Array(
